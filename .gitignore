@@ -1,2 +1,6 @@
-*.sqlitw3
+*.sqlite3
+__pycahce__
 env.py
+*.png
+static/
+media/
